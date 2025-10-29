@@ -5,7 +5,7 @@ rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aw
 lua54 'yes'
 
 author 'BulgaR'
-description 'Set some new horses spawns locations...'
+description 'Set some new wild horses spawns locations...'
 version '2.0'
 
 client_script {
