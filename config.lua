@@ -1,6 +1,7 @@
 Config = {}
 
-Config.Debug = false -- Dev Stuff Dont use on Live Server!
+-- Dev Stuff Dont use on Live Server!
+Config.Debug = false
 
 -- Start spawning 60 seconds after script/server start.
 Config.StartScriptAfter = 60000
